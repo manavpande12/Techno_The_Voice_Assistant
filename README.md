@@ -27,6 +27,25 @@
 ## Requirements
 - **Python 3.6 or higher** is required.
 ```bash
+pip install g4f
+pip install wolframalpha
+pip install pyautogui
+pip install subprocess32
+pip install webbrowser
+pip install datetime
+pip install speedtest-cli
+pip install requests
+pip install pillow
+pip install pyjokes
 pip install pygame
+pip install plyer
+pip install pywhatkit
+pip install wikipedia
+pip install pygetwindow
+pip install pynput
+pip install selenium
+pip install webdriver-manager
+pip install pyttsx3
+pip install speedtest
 ```
 
