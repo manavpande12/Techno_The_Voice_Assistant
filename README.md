@@ -1,6 +1,7 @@
 # 🤖 **Techno the Voice Assistant**
 
-![frame_002_delay-0 02s](https://github.com/user-attachments/assets/bec904f8-ade0-4717-87a1-8ad4bafa2ed4)
+![Orrb](https://github.com/user-attachments/assets/869eb3e5-86e1-4598-9327-e3bbd27f32ac)
+
 
 
 
